@@ -132,28 +132,24 @@ def send_telegram_message(token, chat_id, message):
 
 
 
-while True:
-    print("\n🔄 Checking for listing updates...")
-    current_listings = fetch_listings()
+current_listings = fetch_listings()
 
-    previous_listings = load_listings(DATA_FILE)
+previous_listings = load_listings(DATA_FILE)
 
-    if listings_changed(previous_listings, current_listings):
-        print("✅ Listings changed!")
-        message = "🚨 The rental listings have changed!\n"
-        for item in current_listings:
-            message += f"- {item['name']} | €{item['price']}\n"
+if listings_changed(previous_listings, current_listings):
+    print("✅ Listings changed!")
+    message = "🚨 The rental listings have changed!\n"
+    for item in current_listings:
+        message += f"- {item['name']} | €{item['price']}\n"
 
-        sent = send_telegram_message(TOKEN, CHAT_ID, message)
-        if sent:
-            print("✅ Telegram message sent!")
-        else:
-            print("❌ Failed to send Telegram message.")
-
-        save_listings(current_listings, DATA_FILE)
+    sent = send_telegram_message(TOKEN, CHAT_ID, message)
+    if sent:
+        print("✅ Telegram message sent!")
     else:
-        print("✅ No change detected.")
+        print("❌ Failed to send Telegram message.")
 
-    print("⏳ Sleeping for 1 hour...\n")
-    time.sleep(60 * 60)
+    save_listings(current_listings, DATA_FILE)
+else:
+    print("✅ No change detected.")
+
 

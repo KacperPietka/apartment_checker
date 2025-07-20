@@ -15,8 +15,6 @@ DATA_FILE = "previous_listings.json"
 
 URL = "https://rent2day.nl/wp/wp-admin/admin-ajax.php"
 
-
-# This is your POST data, as seen in DevTools
 PAYLOAD = {
     'action': 'jet_smart_filters',
     'provider': 'jet-engine/default',

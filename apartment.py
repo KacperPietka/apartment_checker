@@ -9,8 +9,8 @@ import time
 #HGSSDD3WAA67E79XZ9GR18UC recovery code from twilio
 
 
-TOKEN = '7713729222:AAHSjLh0ULRPMaYcHfWyvdIROhkcR097TsE'
-CHAT_ID = 7747874542
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+CHAT_ID = int(os.getenv("TELEGRAM_CHAT_ID"))
 
 
 DATA_FILE = "previous_listings.json"

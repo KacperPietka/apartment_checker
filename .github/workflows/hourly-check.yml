@@ -31,9 +31,13 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add previous_listings.json
-        git commit -m "Update previous listings"
-        git push
+        if [[ -n $(git status -s) ]]; then
+          git add previous_listings.json
+          git commit -m "Update previous listings"
+          git push
+        else
+          echo "No changes to commit"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

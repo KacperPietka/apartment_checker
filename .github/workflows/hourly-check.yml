@@ -1,5 +1,8 @@
 name: Hourly Rental Checker
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 * * * *'  # every hour

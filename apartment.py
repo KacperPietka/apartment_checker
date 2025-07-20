@@ -6,8 +6,6 @@ import os
 import time
 
 
-#HGSSDD3WAA67E79XZ9GR18UC recovery code from twilio
-
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 CHAT_ID = int(os.getenv("TELEGRAM_CHAT_ID"))

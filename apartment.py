@@ -8,7 +8,7 @@ import time
 
 
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-CHAT_ID = int(os.getenv("TELEGRAM_CHAT_ID"))
+CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 
 DATA_FILE = "previous_listings.json"

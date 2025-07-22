@@ -1,5 +1,10 @@
 [
   {
+    "name": "Kempenaerstr. | Oegstgeest",
+    "status": "Unknown",
+    "price": "1950"
+  },
+  {
     "name": "Schagensteeg | Leiden",
     "status": "Unknown",
     "price": "2200"
@@ -13,10 +18,5 @@
     "name": "Dorpsstraat | Zoetermeer",
     "status": "Unknown",
     "price": "1495"
-  },
-  {
-    "name": "Duizenddraadsteeg | Leiden",
-    "status": "Unknown",
-    "price": "1500"
   }
 ]

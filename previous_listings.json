@@ -1,5 +1,10 @@
 [
   {
+    "name": "Kanaalpark | Leiden",
+    "status": "Unknown",
+    "price": "1895"
+  },
+  {
     "name": "Schagensteeg | Leiden",
     "status": "Unknown",
     "price": "2200"
@@ -13,10 +18,5 @@
     "name": "Clarensteeg | Leiden",
     "status": "Unknown",
     "price": "1095"
-  },
-  {
-    "name": "Kempenaerstr. | Oegstgeest",
-    "status": "Unknown",
-    "price": "1950"
   }
 ]

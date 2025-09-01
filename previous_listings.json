@@ -1,5 +1,10 @@
 [
   {
+    "name": "Catharinasteeg | Leiden",
+    "status": "Unknown",
+    "price": "1995"
+  },
+  {
     "name": "Vrouwensteeg | Leiden",
     "status": "Unknown",
     "price": "1300"
@@ -13,10 +18,5 @@
     "name": "Kanaalpark | Leiden",
     "status": "Unknown",
     "price": "2050"
-  },
-  {
-    "name": "Morskade | Leiden",
-    "status": "Unknown",
-    "price": "2200"
   }
 ]

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "Badstraat | Katwijk",
+    "status": "Unknown",
+    "price": "1320"
+  },
+  {
+    "name": "Kanaalpark | Leiden",
+    "status": "Unknown",
+    "price": "2200"
+  },
+  {
+    "name": "Nieuwe Rijn | Leiden",
+    "status": "Unknown",
+    "price": "1795"
+  },
+  {
+    "name": "Catharinasteeg | Leiden",
+    "status": "Unknown",
+    "price": "1995"
+  }
+]

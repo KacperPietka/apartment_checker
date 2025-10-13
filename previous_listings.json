@@ -1,5 +1,10 @@
 [
   {
+    "name": "Maalderijstraat | Leiden",
+    "status": "Unknown",
+    "price": "1995"
+  },
+  {
     "name": "Oppenheimstraat | Leiden",
     "status": "Unknown",
     "price": "2500"
@@ -13,10 +18,5 @@
     "name": "Badstraat | Katwijk",
     "status": "Unknown",
     "price": "1320"
-  },
-  {
-    "name": "Kanaalpark | Leiden",
-    "status": "Unknown",
-    "price": "2200"
   }
 ]

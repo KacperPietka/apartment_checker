@@ -1,5 +1,15 @@
 [
   {
+    "name": "Nieuwstraat | Leiden",
+    "status": "Unknown",
+    "price": "2395"
+  },
+  {
+    "name": "Utrechtse Veer | Leiden",
+    "status": "Unknown",
+    "price": "1795"
+  },
+  {
     "name": "Kanaalpark | Leiden",
     "status": "Unknown",
     "price": "1995"
@@ -8,15 +18,5 @@
     "name": "Maalderijstraat | Leiden",
     "status": "Unknown",
     "price": "1995"
-  },
-  {
-    "name": "Oppenheimstraat | Leiden",
-    "status": "Unknown",
-    "price": "2500"
-  },
-  {
-    "name": "Kanaalpark | Leiden",
-    "status": "Unknown",
-    "price": "2200"
   }
 ]

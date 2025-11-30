@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "Nieuwstraat | Leiden",
+    "status": "Unknown",
+    "price": "2395"
+  },
+  {
+    "name": "Catharinasteeg | Leiden",
+    "status": "Unknown",
+    "price": "1395"
+  },
+  {
+    "name": "Mandenmakerssteeg | Leiden",
+    "status": "Unknown",
+    "price": "940"
+  },
+  {
+    "name": "Hartesteeg | Leiden",
+    "status": "Unknown",
+    "price": "1795"
+  }
+]

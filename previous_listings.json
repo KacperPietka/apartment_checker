@@ -1,5 +1,10 @@
 [
   {
+    "name": "V/d Werfsstraat | Leiden",
+    "status": "Unknown",
+    "price": "1650"
+  },
+  {
     "name": "Haarlemmerstraat | Leiden",
     "status": "Unknown",
     "price": "1695"
@@ -13,10 +18,5 @@
     "name": "Nieuwstraat | Leiden",
     "status": "Unknown",
     "price": "2395"
-  },
-  {
-    "name": "Catharinasteeg | Leiden",
-    "status": "Unknown",
-    "price": "1395"
   }
 ]

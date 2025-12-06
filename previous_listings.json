@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "V/d Werfsstraat | Leiden",
+    "status": "Unknown",
+    "price": "1650"
+  },
+  {
+    "name": "Haarlemmerstraat | Leiden",
+    "status": "Unknown",
+    "price": "1695"
+  },
+  {
+    "name": "Dorpsstraat | Zoetermeer",
+    "status": "Unknown",
+    "price": "1495"
+  },
+  {
+    "name": "Nieuwstraat | Leiden",
+    "status": "Unknown",
+    "price": "2395"
+  }
+]

@@ -132,7 +132,7 @@ current_listings = fetch_listings()
 
 previous_listings = load_listings(DATA_FILE)
 
-if listings_changed(previous_listings, current_listings):
+if listings_changed(previous_listings, current_listings) and len(current_listings) > 0:
     print("✅ Listings changed!")
     message = "🚨 The rental listings have changed!\n"
     for item in current_listings:

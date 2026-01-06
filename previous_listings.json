@@ -1,22 +1,22 @@
 [
   {
-    "name": "Nieuwstraat | Leiden",
-    "status": "Unknown",
-    "price": "2295"
-  },
-  {
     "name": "Kanaalpark | Leiden",
     "status": "Unknown",
     "price": "1995"
   },
   {
+    "name": "Hartesteeg | Leiden",
+    "status": "Unknown",
+    "price": "1050"
+  },
+  {
+    "name": "Nieuwstraat | Leiden",
+    "status": "Unknown",
+    "price": "2295"
+  },
+  {
     "name": "V/d Werfstraat | Leiden",
     "status": "Unknown",
     "price": "1650"
-  },
-  {
-    "name": "Haarlemmerstraat | Leiden",
-    "status": "Unknown",
-    "price": "1695"
   }
 ]

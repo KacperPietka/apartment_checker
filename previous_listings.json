@@ -1,5 +1,10 @@
 [
   {
+    "name": "Vrouwensteeg | Leiden",
+    "status": "Unknown",
+    "price": "1415"
+  },
+  {
     "name": "Langstraat | Wassenaar",
     "status": "Unknown",
     "price": "1250"
@@ -13,10 +18,5 @@
     "name": "Hartesteeg | Leiden",
     "status": "Unknown",
     "price": "1050"
-  },
-  {
-    "name": "Nieuwstraat | Leiden",
-    "status": "Unknown",
-    "price": "2295"
   }
 ]

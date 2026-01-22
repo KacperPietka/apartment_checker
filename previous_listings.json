@@ -1,13 +1,13 @@
 [
   {
-    "name": "Kanaalpark | Leiden",
-    "status": "Unknown",
-    "price": "1895"
-  },
-  {
     "name": "Nieuwstraat | Leiden",
     "status": "Unknown",
     "price": "2195"
+  },
+  {
+    "name": "Kanaalpark | Leiden",
+    "status": "Unknown",
+    "price": "1895"
   },
   {
     "name": "Vrouwensteeg | Leiden",

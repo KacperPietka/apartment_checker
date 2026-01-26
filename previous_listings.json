@@ -1,22 +1,22 @@
 [
   {
-    "name": "Kanaalpark | Leiden",
+    "name": "Haarlemmerstraat | Leiden",
     "status": "Unknown",
-    "price": "1900"
+    "price": "1225"
   },
   {
-    "name": "Dorpsstraat | Zoetermeer",
+    "name": "Nieuwstraat | Leiden",
     "status": "Unknown",
-    "price": "1495"
-  },
-  {
-    "name": "Duizenddraadsteeg | Leiden",
-    "status": "Unknown",
-    "price": "1500"
+    "price": "2195"
   },
   {
     "name": "Kanaalpark | Leiden",
     "status": "Unknown",
-    "price": "1495"
+    "price": "1895"
+  },
+  {
+    "name": "Vrouwensteeg | Leiden",
+    "status": "Unknown",
+    "price": "1415"
   }
 ]

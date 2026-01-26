@@ -6,19 +6,15 @@ import os
 import time
 
 
-#HGSSDD3WAA67E79XZ9GR18UC recovery code from twilio
 
-
-TOKEN = '7713729222:AAHSjLh0ULRPMaYcHfWyvdIROhkcR097TsE'
-CHAT_ID = 7747874542
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 
 DATA_FILE = "previous_listings.json"
 
 URL = "https://rent2day.nl/wp/wp-admin/admin-ajax.php"
 
-
-# This is your POST data, as seen in DevTools
 PAYLOAD = {
     'action': 'jet_smart_filters',
     'provider': 'jet-engine/default',

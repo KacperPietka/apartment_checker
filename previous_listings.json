@@ -1,5 +1,10 @@
 [
   {
+    "name": "Nieuwstraat | Leiden",
+    "status": "Unknown",
+    "price": "2195"
+  },
+  {
     "name": "1e Binnenvestgracht | Leiden",
     "status": "Unknown",
     "price": "1525"
@@ -13,10 +18,5 @@
     "name": "Haarlemmerstraat | Leiden",
     "status": "Unknown",
     "price": "1225"
-  },
-  {
-    "name": "Nieuwstraat | Leiden",
-    "status": "Unknown",
-    "price": "2195"
   }
 ]

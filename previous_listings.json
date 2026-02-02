@@ -1,5 +1,15 @@
 [
   {
+    "name": "1e Binnenvestgracht | Leiden",
+    "status": "Unknown",
+    "price": "1525"
+  },
+  {
+    "name": "Eendragtplaats | Leiden",
+    "status": "Unknown",
+    "price": "2500"
+  },
+  {
     "name": "Haarlemmerstraat | Leiden",
     "status": "Unknown",
     "price": "1225"
@@ -8,15 +18,5 @@
     "name": "Nieuwstraat | Leiden",
     "status": "Unknown",
     "price": "2195"
-  },
-  {
-    "name": "Kanaalpark | Leiden",
-    "status": "Unknown",
-    "price": "1895"
-  },
-  {
-    "name": "Vrouwensteeg | Leiden",
-    "status": "Unknown",
-    "price": "1415"
   }
 ]

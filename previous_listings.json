@@ -1,5 +1,10 @@
 [
   {
+    "name": "Raamstraat | Leiden",
+    "status": "Unknown",
+    "price": "2500"
+  },
+  {
     "name": "Kanaalpark | Leiden",
     "status": "Unknown",
     "price": "1250"
@@ -13,10 +18,5 @@
     "name": "Eendragtplaats | Leiden",
     "status": "Unknown",
     "price": "2500"
-  },
-  {
-    "name": "Kanaalpark | Leiden",
-    "status": "Unknown",
-    "price": "1995"
   }
 ]

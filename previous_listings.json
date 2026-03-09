@@ -2,21 +2,21 @@
   {
     "name": "Kanaalpark | Leiden",
     "status": "Unknown",
+    "price": "1100"
+  },
+  {
+    "name": "Dorpsstraat | Zoetermeer",
+    "status": "Unknown",
+    "price": "1795"
+  },
+  {
+    "name": "Kanaalpark | Leiden",
+    "status": "Unknown",
     "price": "2300"
   },
   {
     "name": "Raamstraat | Leiden",
     "status": "Unknown",
     "price": "2500"
-  },
-  {
-    "name": "Kanaalpark | Leiden",
-    "status": "Unknown",
-    "price": "1250"
-  },
-  {
-    "name": "Haven | Leiden",
-    "status": "Unknown",
-    "price": "2000"
   }
 ]

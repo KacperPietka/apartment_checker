@@ -1,5 +1,10 @@
 [
   {
+    "name": "Aalmarkt | Leiden",
+    "status": "Unknown",
+    "price": "1075"
+  },
+  {
     "name": "Dorpsstraat | Zoetermeer",
     "status": "Unknown",
     "price": "1795"
@@ -13,10 +18,5 @@
     "name": "Kanaalpark | Leiden",
     "status": "Unknown",
     "price": "2300"
-  },
-  {
-    "name": "Kanaalpark | Leiden",
-    "status": "Unknown",
-    "price": "1250"
   }
 ]

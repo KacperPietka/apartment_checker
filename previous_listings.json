@@ -1,5 +1,10 @@
 [
   {
+    "name": "Kanaalpark | Leiden",
+    "status": "Unknown",
+    "price": "1995"
+  },
+  {
     "name": "Dorpsstraat | Zoetermeer",
     "status": "Unknown",
     "price": "1795"
@@ -13,10 +18,5 @@
     "name": "Utrechtse Veer | Leiden",
     "status": "Unknown",
     "price": "2750"
-  },
-  {
-    "name": "Kanaalpark | Leiden",
-    "status": "Unknown",
-    "price": "2200"
   }
 ]
